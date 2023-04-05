@@ -22,7 +22,7 @@ NGOs and government agencies can use the app to update the availability of beds 
 Women can also use the app to connect with support services and other women who may be experiencing similar challenges. The app provides a secure and anonymous chat feature for users to connect and seek support.
 
 Support:
-For any technical issues or queries related to the app, please contact our support team at a.ramachandran.2002@gmail.com.
+For any technical issues or queries related to the app, please contact our support team at a.ramachandran.2002@gmail.com. or namruthahari3@gmail.com
 
 Contributing:
 We welcome contributions to the "SheShelters" app from developers and designers who share our vision of supporting homeless women in Delhi. 
