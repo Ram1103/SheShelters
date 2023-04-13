@@ -28,7 +28,7 @@ Contributing:
 We welcome contributions to the "SheShelters" app from developers and designers who share our vision of supporting homeless women in Delhi. 
 
 # SOCIALS
-YOUTUBE LINK : https://youtu.be/csG35h_FCgQ
+YOUTUBE LINK : https://youtu.be/xXN8z6ce_4U
 
 # SCREENSHOTS
 ![26](https://user-images.githubusercontent.com/74101453/231358991-d1e3e631-7d8f-442c-9743-5e5f4cf73b24.png)
